@@ -134,6 +134,8 @@ const displayLesson = (lessons) => {
 
         levelContainer.append(btnDiv);
 
+        
+
     } 
 };
 loadLessons();   
